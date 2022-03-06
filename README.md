@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Currently at
 
-You can use the [editor on GitHub](https://github.com/robert-mdh-bui/robert-mdh-bui.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- University of Illinois at Chicago, MSBA 2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Currently learning
 
-### Markdown
+- PySpark
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Major Tools:
 
-```markdown
-Syntax highlighted code block
+- R
+- Python
+- Tableau
 
-# Header 1
-## Header 2
-### Header 3
+# Other Tools:
 
-- Bulleted
-- List
+- Excel
+- SQL
+- Spark
 
-1. Numbered
-2. List
+# Portfolio Demos:
 
-**Bold** and _Italic_ and `Code` text
+- Excel Here
+- SQL/Tableau Here
+- R/Shiny here
+- Py/Spark here
 
-[Link](url) and ![Image](src)
-```
+# Career Timeline
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robert-mdh-bui/robert-mdh-bui.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Item 1
+- Item 2
+- Item 3
+- Item 4
